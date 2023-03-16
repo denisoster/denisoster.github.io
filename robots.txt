@@ -1,0 +1,6 @@
+---
+layout: none
+---
+
+user-agent: *
+sitemap: https://oster.dev/sitemap.xml
