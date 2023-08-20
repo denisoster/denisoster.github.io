@@ -1,7 +1,14 @@
-encoding: "UTF-8"
-title: "StandWithUkraine"
+encoding: UTF-8
+title: StandWithUkraine
 description: "Russia invaded Ukraine, killing tens of thousands of civilians and displacing millions more. It's a genocide. Please help us defend freedom, democracy and Ukraine's right to exist."
-domain: "oster.dev"
-url: "https://oster.dev"
-social_sharing: "true"
-markdown: "GFM"
+domain: oster.dev
+baseurl: ""
+url: https://oster.dev
+social_sharing: true
+markdown: GFM
+repository: denisoster/denisoster.github.io
+
+readme_index:
+  enabled:          true
+  remove_originals: true
+  with_frontmatter: false
