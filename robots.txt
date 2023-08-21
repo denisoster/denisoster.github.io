@@ -1,0 +1,6 @@
+---
+layout: none
+---
+
+user-agent: *
+sitemap: https://example.com/sitemap-file.xml
