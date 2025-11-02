@@ -3,4 +3,4 @@ layout: none
 ---
 
 user-agent: *
-sitemap: https://oster.dev/sitemap.xml
+sitemap: https://oster.page/sitemap.xml
